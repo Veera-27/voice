@@ -1,0 +1,32 @@
+body
+{
+	text-align: center;
+background-color:darkturquoise;
+border-style:dotted;
+border-width:5px;
+border-color:yellow;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background:cyan;
+	border-radius :20px;
+	border-style: double;
+	border-width: 10px;
+	border-color: yellow;
+}
+h3{
+	color:blue;
+	font-weight: bold;
+}
+#button1{
+	color:blue;
+	background-color:yellow;
+	width: 150px;
+	font-size:large;
+	font-weight: bold;
+}
